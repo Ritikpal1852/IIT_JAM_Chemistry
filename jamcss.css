@@ -1,0 +1,83 @@
+
+.jam{
+    display: flex;
+    flex-direction: row;
+        padding-left: 2.5em;
+        padding-top: 0.5em;
+}
+.ja{
+    padding-left: 0.25em;
+}
+.hh{
+    color: rgb(31, 51, 87);
+}
+li {
+    font-weight: bold;
+    display: inline-block;
+    font-size: 1.2em;
+    list-style-type: none;
+    padding: 0.5em;
+    text-transform: uppercase;
+  }
+  li:hover{
+
+      font-size: 1.3em;
+  }
+
+#itom1{
+    background-color: rgb(119, 187, 119)
+}
+#itom2{
+    background-color: rgb(119, 187, 119)
+}
+.speech{
+    background-color: rgb(156, 201, 156);
+    padding-top: 2em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    font-size: 140%;
+}
+section{
+    background-color: honeydew;
+}
+.section2{
+    padding-left: 2em;
+    padding-right: 2em;
+}
+button{
+    font-weight: bold;
+
+}
+.yt{
+    padding-left: 00.5em;
+    /* color: darkcyan; */
+}
+.general{
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+    
+}
+#gener{
+    color: darkblue;
+    background-color: darkcyan;
+}
+.general:hover{
+    font-size: 1em;
+    color:white;
+}
+.section3{
+    padding: 2em;
+    padding-top: 2.5em;
+}
+.timer{
+    width: 100vh;
+}
+.tt.general:hover{
+    color: blue;
+}
+.butn{
+    padding: 0.5em;
+}
+nav{
+    background-color: hotpink;
+}

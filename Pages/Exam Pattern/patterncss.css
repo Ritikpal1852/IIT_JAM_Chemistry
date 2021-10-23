@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: honeydew;
+}
+.pattern{
+    padding-top: 5em
+    ;
+}
+.table{
+    padding-top: 2.5em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+#butn{
+    padding: 1em;
+}
